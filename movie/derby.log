@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+Wed Dec 23 14:28:03 EST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-9112-9505-000005e38098 
+on database directory memory:C:\MyProjects\movie\c3ea4648-c033-456d-af47-dc2aa63bcbdf with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/surya/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=C:\MyProjects\movie
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 23 14:39:49 EST 2020:
+Shutting down instance a816c00e-0176-9112-9505-000005e38098 on database directory memory:C:\MyProjects\movie\c3ea4648-c033-456d-af47-dc2aa63bcbdf with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Wed Dec 23 14:39:51 EST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 176240b2-0176-9112-9505-000005e38098 
+on database directory memory:C:\MyProjects\movie\6a70f75b-091f-42cf-b927-5b27f1146197 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/surya/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=C:\MyProjects\movie
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 23 20:42:01 EST 2020:
+Shutting down instance 176240b2-0176-9112-9505-000005e38098 on database directory memory:C:\MyProjects\movie\6a70f75b-091f-42cf-b927-5b27f1146197 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
